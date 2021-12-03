@@ -12,8 +12,8 @@ import random
 import jackknife_utilities
 import numerical_utilities
 from scipy.stats import chi2
-from IPython.core.interactiveshell import InteractiveShell
-InteractiveShell.ast_node_interactivity = "all"
+#from IPython.core.interactiveshell import InteractiveShell
+#InteractiveShell.ast_node_interactivity = "all"
 
 
 def func1(x,A,B,Delta):
